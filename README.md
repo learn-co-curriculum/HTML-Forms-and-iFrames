@@ -137,7 +137,7 @@ Checkboxes are ideal if we wish to allow our user to choose one, another, or bot
 
 #### Select Menus
 
-Select menus create a nice drop menu which multiple selectable options. Here the user must also choose a single option, so this could be a replacement for a set of radio buttons. Here we must assign a text lablel between the opening and closing option elements as well as a `value` attribute that will hold the choice the user selects that will be passed along during form submission.
+Select menus create a nice drop menu which multiple selectable options. Here the user must also choose a single option, so this could be a replacement for a set of radio buttons. Here we must assign a text lable between the opening and closing option elements as well as a `value` attribute that will hold the choice the user selects that will be passed along during form submission.
 
 ```html
 <select name="size">
@@ -192,3 +192,5 @@ Iframe elements allow us to link to other HTML content from within a frame windo
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/HTML-Forms-and-iFrames' title='HTML Forms and Iframes'>HTML Forms and Iframes</a> on Learn.co and start learning to code for free.</p>
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/HTML-Forms-and-iFrames'>HTML Forms and iFrames</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/HTML-Forms-and-iFrames'>HTML Forms and iFrames</a> on Learn.co and start learning to code for free.</p>

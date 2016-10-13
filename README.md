@@ -165,7 +165,7 @@ Select menus create a nice drop menu with multiple selectable options. Here the 
 
 #### Textarea
 
-Textarea elements are useful if we wish to allow our user to insert multiple lines of text. For example, if we wish to gather feedback which requires our user to type as much or as little a response as they like.
+Textarea elements are useful if we wish to allow our user to insert multiple lines of text. For example, if we wish to gather feedback that requires our users to type as much or as little a response as they like.
 
 ```html
 <textarea name="message"></textarea>
